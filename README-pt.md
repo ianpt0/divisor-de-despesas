@@ -1,6 +1,6 @@
 # Divisor proporcional de despesas
 
-Simples aplicativo em Python usando Tkinter como GUI para dividir despesas comuns baseado na renda mensal de cada pessoa.
+Aplicativo simples em Python usando Tkinter como GUI para dividir despesas proporcionalmente baseado na renda mensal de cada pessoa.
 
 ## Introdução
 
