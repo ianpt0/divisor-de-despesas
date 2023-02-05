@@ -27,31 +27,3 @@ Pra usar é só abrir o Jupyter Notebook. A primeira célula é o algorítmo pur
 O aplicativo é bem simples mas é livre pra mudanças e aprimoramentos, sua pull request é muito bem-vinda.
 
 
-
------------------------------------------------------------------
-
-
-# Proportional Expense Splitter
-
-A simple Python app to split expenses proportionally based on each individual's income.
-
-## Introduction
-
-This app makes it easy to fairly split expenses among a group of people. Simply input each person's income and the total amount spent, and the app will calculate the proportional amount each person should pay.
-
-## Features
-- Input individual incomes
-- Calculate total expenses
-- Proportionally split expenses based on income
-- Output results in a clear and concise manner
-
-## Requirements
-- Python 3.11.1
-- Tkinter 8.6
-
-## Usage
-- Just download it and feel free to run this Jupyter Notebook.
-
-## Contributions
-
-Contributions are welcome! If you would like to make changes or improvements to the app, feel free to create a pull request.
