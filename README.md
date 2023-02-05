@@ -24,6 +24,6 @@ Pra usar é só abrir o Jupyter Notebook. A primeira célula é o algorítmo pur
 
 ## Contribuições
 
-O aplicativo é bem simples mas é livre pra mudanças e aprimoramentos, sua pull request é muito bem-vinda.
+O aplicativo é bem simples mas é livre pra mudanças e aprimoramentos, sua pull request é bem-vinda!
 
 
