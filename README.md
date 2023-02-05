@@ -4,7 +4,7 @@ Simples aplicativo em Python usando Tkinter como GUI para dividir despesas comun
 
 ## Introdução
 
-A ideia desse aplicativo surgiu de um simples algorítmo ao longo dos estudos em Python em junção com a necessidade pessoal de uso (e curiosidade com o Tkinter). 
+A ideia desse aplicativo surgiu de um simples algorítmo ao longo dos estudos em Python em junção com a necessidade pessoal de uso e curiosidade de fuçar o Tkinter. 
 Ele facilita a divisão justa de despesas, é só inserir a renda mensal de cada pessoa junto ao valor total dos gastos mensais que o aplicativo calcula o valor proporcional que cada pessoa deverá pagar.
 
 
