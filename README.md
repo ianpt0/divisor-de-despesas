@@ -12,7 +12,7 @@ Ele facilita a divisão justa de despesas, é só inserir a renda mensal de cada
 - Input de rendas mensais
 - Input total de despesa
 - Divide despesas proporcionalmente baseado na renda de cada pessoa
-- Output com a percentual de cada pessoa sobre as contas e valor exato que cada um deverá pagar
+- Output com a percentual de pagamento de cada pessoa sobre as depesas e valor exato que cada um deverá pagar
 
 ## Requisitos
 - Python 3.11.1
